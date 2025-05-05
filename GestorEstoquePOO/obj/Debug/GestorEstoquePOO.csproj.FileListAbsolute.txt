@@ -1,0 +1,7 @@
+C:\Users\Murilo Eduardo\source\repos\GestorEstoquePOO\GestorEstoquePOO\bin\Debug\GestorEstoquePOO.exe.config
+C:\Users\Murilo Eduardo\source\repos\GestorEstoquePOO\GestorEstoquePOO\bin\Debug\GestorEstoquePOO.exe
+C:\Users\Murilo Eduardo\source\repos\GestorEstoquePOO\GestorEstoquePOO\bin\Debug\GestorEstoquePOO.pdb
+C:\Users\Murilo Eduardo\source\repos\GestorEstoquePOO\GestorEstoquePOO\obj\Debug\GestorEstoquePOO.csproj.AssemblyReference.cache
+C:\Users\Murilo Eduardo\source\repos\GestorEstoquePOO\GestorEstoquePOO\obj\Debug\GestorEstoquePOO.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Eduardo\source\repos\GestorEstoquePOO\GestorEstoquePOO\obj\Debug\GestorEstoquePOO.exe
+C:\Users\Murilo Eduardo\source\repos\GestorEstoquePOO\GestorEstoquePOO\obj\Debug\GestorEstoquePOO.pdb
