@@ -1,7 +1,7 @@
-📦 Sistema de Gestão de Estoque – Back-End em C#
+##📦 Sistema de Gestão de Estoque – Back-End em C#
 Este projeto é uma aplicação back-end desenvolvida em C# com foco na gestão de estoque. O sistema permite realizar operações essenciais de CRUD (Create, Read, Update, Delete) para produtos de forma simples e eficiente.
 
-🔧 Funcionalidades principais
+#🔧 Funcionalidades principais
 ✅ Incluir produtos: Adição de novos itens ao estoque com seus respectivos dados.
 
 ❌ Excluir produtos: Remoção de produtos do estoque com base em identificadores únicos.
