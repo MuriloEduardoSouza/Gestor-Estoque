@@ -4,11 +4,11 @@ Este projeto é uma aplicação back-end desenvolvida em C# com foco na gestão 
 
 # 🔧 Funcionalidades principais
 
-✅ Incluir produtos: Adição de novos itens ao estoque com seus respectivos dados.
+- ✅ Incluir produtos: Adição de novos itens ao estoque com seus respectivos dados.
 
-❌ Excluir produtos: Remoção de produtos do estoque com base em identificadores únicos.
+- ❌ Excluir produtos: Remoção de produtos do estoque com base em identificadores únicos.
 
-📋 Listar produtos: Visualização completa dos produtos cadastrados, com detalhes relevantes.
+- 📋 Listar produtos: Visualização completa dos produtos cadastrados, com detalhes relevantes.
 
 # 💻 Tecnologias utilizadas
 
